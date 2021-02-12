@@ -8,6 +8,10 @@
 #connection string
 infrastructure/backend.tf
 backend.tf
+
+.DS_Store
+.idea/
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
